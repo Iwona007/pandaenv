@@ -1,0 +1,11 @@
+commit 67a323c9919a2814ccc6bedf4c201c33851bf247
+tree fb42403eadc4b925ab8607f0e0f23f3caa014db4
+parent fc1d479da81342eef2b15a90d2837b177e8c5bd2
+author Iwona007 <iwonka.adamkiewicz@gmail.com> 2020-09-07 18:13:52 +0000
+committer Iwona007 <iwonka.adamkiewicz@gmail.com> 2020-09-07 18:13:52 +0000
+
+    change pom and test
+
+
+:100644 100644 18ae155060bc31a296c0d5014584ffda86e97f44 5c5147255f495e7e154a8dbf41ebf987a752dad1 M	pom.xml
+:100644 100644 dcc42bc0fa848886503ae01611d5075af00684aa fe520b1ffbfc80bbe536bf4107d6e51330d925f0 M	src/test/java/pl/pandait/panda/PandaApplicationSeleniumTest.java
