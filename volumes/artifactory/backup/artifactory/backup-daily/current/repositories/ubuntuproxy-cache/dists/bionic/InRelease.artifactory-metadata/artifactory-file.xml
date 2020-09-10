@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>ubuntuproxy-cache</repoKey>
+    <path>dists/bionic/InRelease</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>InRelease</name>
+  <created>1599214272810</created>
+  <lastModified>1524785920000</lastModified>
+  <size>242048</size>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1599214272812</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>sha1</type>
+          <actual>e0f89a6606e9968eb67caffb23366793ea9d2800</actual>
+        </checksum>
+        <checksum>
+          <type>md5</type>
+          <actual>a510315c6a7499fe9c1f34fd2edf2812</actual>
+        </checksum>
+        <checksum>
+          <type>sha256</type>
+          <original>NO_ORIG</original>
+          <actual>690bd875ab5799394af7406f32f2e698c48e772ac367d520f74ec1095662da4d</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

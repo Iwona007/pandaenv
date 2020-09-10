@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>ubuntuproxy-cache</repoKey>
+    <path>dists/bionic/main/binary-amd64/by-hash/SHA256/695c0eea6c76328592315343dc03cc2b063dfba15fcf145234dfd5ede50a48d3</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>695c0eea6c76328592315343dc03cc2b063dfba15fcf145234dfd5ede50a48d3</name>
+  <created>1599214274885</created>
+  <lastModified>1524764605000</lastModified>
+  <size>1019132</size>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1599214274886</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>sha1</type>
+          <actual>0c48c567e22a658903a5458dd149760b63401c83</actual>
+        </checksum>
+        <checksum>
+          <type>md5</type>
+          <actual>9eae32e7c5450794889f9c3272587f5e</actual>
+        </checksum>
+        <checksum>
+          <type>sha256</type>
+          <original>NO_ORIG</original>
+          <actual>695c0eea6c76328592315343dc03cc2b063dfba15fcf145234dfd5ede50a48d3</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

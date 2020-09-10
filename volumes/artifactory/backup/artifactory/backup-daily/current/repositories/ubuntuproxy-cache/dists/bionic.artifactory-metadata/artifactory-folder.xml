@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>ubuntuproxy-cache</repoKey>
+    <path>dists/bionic</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>bionic</name>
+  <created>1599214272809</created>
+  <lastModified>1599214272809</lastModified>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1599214272809</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

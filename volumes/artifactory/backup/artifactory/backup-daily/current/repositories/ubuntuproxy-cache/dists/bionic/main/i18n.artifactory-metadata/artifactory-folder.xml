@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>ubuntuproxy-cache</repoKey>
+    <path>dists/bionic/main/i18n</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>i18n</name>
+  <created>1599214276741</created>
+  <lastModified>1599214276741</lastModified>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1599214276741</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

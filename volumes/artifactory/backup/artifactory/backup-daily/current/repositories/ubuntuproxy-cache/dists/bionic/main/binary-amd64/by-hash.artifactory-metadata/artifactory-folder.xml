@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>ubuntuproxy-cache</repoKey>
+    <path>dists/bionic/main/binary-amd64/by-hash</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>by-hash</name>
+  <created>1599214274879</created>
+  <lastModified>1599214274879</lastModified>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1599214274879</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>
